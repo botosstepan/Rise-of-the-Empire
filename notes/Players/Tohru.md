@@ -1,7 +1,7 @@
 # Tohru
 Tohru považuje své _učení_ za nepřetržité. Každý nevěstinec, každý dům radovánek, každý přeplněný chrám zasvěcený bohyni lásky a plodnosti, je pro něj "kapitolou ve Velké knize lidské Přirozenosti." Tvrdí, že pochopit lidskou touhu a slabost je klíčem k opravdovému mistrovství Ki.
 
-- __Pravidelný Host__ : Navštěvuje ta nejluxusnější i nejšpinavější nevěstince v každém navštíveném městě, kde proslul jako velkorysý, ale tichý a uctivý host.
+- __Pravidelný Host__ : Navštěvuje ta nejluxusnější i nejčistčí nevěstince v každém navštíveném městě, kde proslul jako velkorysý, ale tichý a uctivý host.
 
 - __Osvícení Noci__ : Věří, že neřest je jen další projev energie světa. Rád se oddává vínu, jídlu a sexuálním radovánkám, protože tím údajně "pročišťuje své Ki skrze pozemské potěšení".
 
@@ -14,7 +14,7 @@ data-img="Images/Players/Tohru.jpg"
 # Character Sheet
 
 ## Basic Information
-**Name:** Aeryn Valeth  
+**Name:** Tohru  
 **Race:** High Elf  
 **Class & Level:** Wizard (Evocation) 3  
 **Background:** Sage (Researcher)  
